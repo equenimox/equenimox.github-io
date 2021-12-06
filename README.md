@@ -1,1 +1,1 @@
-# equenimox.github-io
+# equenimox.github.io
